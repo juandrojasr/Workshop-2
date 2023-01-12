@@ -2,7 +2,7 @@
 function App() {
   return (
     <>
-    <h4>Hola :D</h4>
+    <h4></h4>
     </>
   );
 }
