@@ -1,12 +1,14 @@
 import React from 'react';
-import Division from "./components/Division";
+import Header from './components/Header';
+import Division from "./components/division";
 import Footer from "./components/Footer";
 
 function App() {
   return (
     <>
-    <Division />
-    <Footer />
+      <Header />
+      <Division />
+      <Footer />
     </>
   );
 }
