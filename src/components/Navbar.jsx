@@ -30,7 +30,7 @@ export class Navbar extends Component {
     return (
       <div className="navbar">
         <NavbarImage />
-        <ul className="navbar-itm">
+        <ul className="navbar-itm navbar-mobile">
           {items.map(({ id, content }) => (
             <NavbarItem key={id} text={content} />
           ))}
