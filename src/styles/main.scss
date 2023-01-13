@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Josefin+Sans:wght@300&display=swap");
+
+
+.division{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.imagen{
+    width: 50%;
+    text-align: start;
+}
+.texto{
+    padding: 5rem;
+    background-color: white;
+    width: 40%;
+    text-align: start;
+    align-self: flex-end ;
+}
