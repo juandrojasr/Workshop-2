@@ -1,8 +1,12 @@
+import React from 'react';
+import Division from "./components/Division";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <>
-    <h4>Holas :D</h4>
+    <Division />
+    <Footer />
     </>
   );
 }
