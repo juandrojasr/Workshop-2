@@ -36,8 +36,12 @@
   }
   
   @media (min-width: 900px){
+    .row{
+      display: flex;
+    }
     .col-md-4 {
-        margin-top: 2%
+        margin-top: 2%;
+        width: 100%;
                 
       }
   }
